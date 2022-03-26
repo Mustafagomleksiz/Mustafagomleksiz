@@ -1,7 +1,7 @@
 ### Hi there 👋 Mustafa is here
 
 - 🔭 I’m currently working on education field and data science bootcamp participant
-- 🌱 I’m currently learning data science tools
+- 🌱 I’m currently learning data science and machine learning tools
 - Data Analysis with Python and SQL 
 - Data Visualization with Python and TABLEAU 
 - Machine Learning & Deep Learning & NLP
