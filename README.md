@@ -5,7 +5,7 @@
 ## I'm a Data Scientist at Bright Education
 
 - 👨‍💻 I’m currently working on machine learning projects using python.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: expand my knowledge and expertise by exploring additional technologies and continuously generating innovative ideas.
 
 ---
 
