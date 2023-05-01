@@ -26,7 +26,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white "/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
   <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30"/></a></a>
-  <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg"  height="30"/></a><br/>
+  <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg"  height="30"/></a>
+  
   
 
 
